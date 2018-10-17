@@ -372,6 +372,9 @@ a {
                 .news__info-img--20181001 {
                     background-image: url(../images/07NoteBook2.svg);
                 }
+                .news__info-img--20181017 {
+                    background-image: url(../images/09Examination.svg);
+                }
             .news__info-autor {
                 font-size: 1.5em;
                 color: rgb(45, 45, 68);
